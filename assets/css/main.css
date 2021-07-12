@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/*Main SCSS*/
+/*Archivo de Manifiesto*/
+/* abstracts */
+/*Variables*/
+/*Fuentes*/
+/*Font Sizes*/
+/* Font weight*/
+/*Paleta de Colores*/
+/*Paleta de Grises*/
+/*Paletas de Rosas*/
+/*Paleta de Blancos*/
+/* Base */
+/*Seccion 1*/
+.div__seccion1--color {
+  font-family: "Raleway", serif;
+  background-color: #E56353;
+  color: #fff;
+  height: 350px;
+  padding-top: 7%;
+}
+.div__seccion1--color h1 {
+  font-weight: 200;
+}
+.div__seccion1--color span {
+  font-weight: 700;
+}
+
+/*Seccion 2*/
+.div__seccion2--color {
+  font-family: "Raleway", serif;
+  background-color: #91918D;
+  color: #fff;
+}
+.div__seccion2--color h3 {
+  font-weight: 400;
+}
+.div__seccion2--color span {
+  font-weight: 700;
+}
+
+/*Seccion 3*/
+.div__seccion3--color {
+  font-family: "Raleway", serif;
+  background-color: #FAFAFA;
+}
+
+/*Sección Nosotros Titulo*/
+.div__nosotros--color {
+  font-family: "Raleway", serif;
+  background-color: #E56353;
+  color: #fff;
+}
+.div__nosotros--color h1 {
+  font-weight: 400;
+}
+
+/*Seccion Nosotros Contenido*/
+.div__nosotros--contenido {
+  background-color: #FAFAFA;
+}
+
+/*Sección Contacto*/
+.div__contacto--estilos {
+  color: #fff;
+  background-color: #E56353;
+}
+
+/*footer*/
+.div__footer--estilos {
+  background-color: #686963;
+}
+
+/* Layout */
+/* Components */
+.btn {
+  border-radius: 15em;
+  margin: 10px;
+}
+
+/*# sourceMappingURL=main.css.map */
